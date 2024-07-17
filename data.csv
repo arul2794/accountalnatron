@@ -1,2 +1,7 @@
-name,phone,college,projectName,referredBy,totalCost,paid,balance,amountSpent,accountStatus,dueDate
-ARUL,8610132937,KIT,OIL QUALITY,Friends,78000,58000,20000,0,Active,2024-07-17
+Total Income,,,
+0
+
+Total Profit,,,
+0
+
+name,phone,college,dateGiven,projectName,referredBy,totalCost,paid,amountSpent,profit,balance,accountStatus,dueDate
